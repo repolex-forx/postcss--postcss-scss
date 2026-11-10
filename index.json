@@ -1,0 +1,11 @@
+{
+  "org": "postcss",
+  "repo": "postcss-scss",
+  "versions": [
+    {
+      "commit": "028380809e01f5f40367464524b64f1101ae270f",
+      "tag": "",
+      "parsed_at": "2026-11-10T02:59:34.044400+00:00"
+    }
+  ]
+}
